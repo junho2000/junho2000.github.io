@@ -174,13 +174,13 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
-  - pages/blog.md
-  - pages/teaching.md
-  - pages/projects.md
-  - pages/repositories.md
-  - pages/cv.md
-  - pages/people.md
-  - pages/submenus.md
+  - _pages/blog.md
+  - _pages/teaching.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/cv.md
+  - _pages/people.md
+  - _pages/submenus.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
