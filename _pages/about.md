@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently an undergraduate student at [Kookmin University](https://english.kookmin.ac.kr/), supervised by [Prof. Seongwon Lee](https://sungonce.github.io/). I began my research journey at [CARIAD](https://cariad.technology/) as a Sensor Fusion Research Intern under the guidance of [Dr. Xavier Timoneda](https://scholar.google.com/citations?hl=ca&user=XIBgaEoAAAAJ&view_op=list_works&sortby=pubdate).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests span computer vision, deep learning, and computer graphics, with a particular focus on 3D reconstruction. I am also exploring the exciting possibilities at the intersection of language models and robotic action, working towards building machines that can perceive, understand, and interact with the physical world as naturally as humans do.
